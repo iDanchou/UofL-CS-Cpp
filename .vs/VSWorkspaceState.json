@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Hello World\\Debug",
+    "\\Hello World\\x64",
+    "\\Hello World\\x64\\Debug"
   ],
+  "SelectedNode": "\\Hello World",
   "PreviewInSolutionExplorer": false
 }
